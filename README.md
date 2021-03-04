@@ -4,7 +4,7 @@
 3. Deploy: https://Fpsska.github.io/rsschool-cv/
 4. Done 04.03.2021 / deadline 08.03.21
 5. Score: 90 / 100
-- Semantic HTML : used  <header>, <article>, <section> tags
+- Semantic HTML : used  header , article , section tags
 - Validator found no errors
 - Using h1-h6 as headings
 - Horizontally centered
