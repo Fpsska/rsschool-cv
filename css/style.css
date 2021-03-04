@@ -100,7 +100,7 @@ body {
 .header__img {
     margin: 2em;
     border-radius: 10px;
-    background-image: url("/img/avatar.jpg");
+    background-image: url("../img/avatar.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
