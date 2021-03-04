@@ -1,5 +1,5 @@
 # rsschool-cv
-1. Task: HTML & CSS
+1. Task: HTML, CSS & Git Basics
 2. Screenshot:![image](https://user-images.githubusercontent.com/73740087/109976310-b08c5b00-7d0c-11eb-86af-1a3f68945540.png)
 3. Deploy: https://Fpsska.github.io/rsschool-cv/
 4. Done 04.03.2021 / deadline 08.03.21
