@@ -57,10 +57,10 @@ body {
     grid-area: a;
     display: grid;
     grid-template-columns: .2fr .8fr;
+    grid-template-rows: repeat(2, auto);
     justify-content: space-between;
     grid-template-areas: 
-    "a b"
-    ;
+    "a b";
 }
 .header__right {
     grid-area: a;
@@ -98,15 +98,12 @@ body {
     font-size: 18px;
 }
 .header__img {
-    margin: 2em;
-    border-radius: 10px;
-    background-image: url("/img/avatar.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    margin: 2em 0 0 4em;
+    border-radius: 20px;
     overflow: hidden;
-    width: 25em;
-    height: 100%;
+    object-fit: cover;
+    width: 22em;
+    height: auto;
 }
 
 .about {
